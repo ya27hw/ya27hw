@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Yousuf
 
-Flutter developer in Muscat, Oman — building apps I actually use.
-
 ## Projects
 
 | Project | Description |
