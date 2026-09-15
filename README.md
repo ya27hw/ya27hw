@@ -11,3 +11,4 @@
 ## Tools I use
 
 - [OpenCode Go](https://opencode.ai/go?ref=APMP0ZVD7S) — open-source AI coding agent for the terminal. Sign up through this link and we both get **$5 usage credit**! 💸
+- [OpenCode Go guide](https://ya27hw.github.io/opencode-go-guide/) — pricing, per-model limits, and what $10/month actually gets you
